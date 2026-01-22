@@ -5,7 +5,7 @@ A simple Android app demonstrating basic Jetpack Compose concepts including layo
 
 ---
 
-## Step 1: Create New Android Studio Project
+## STEP 0: Create New Android Studio Project
 
 1. Open Android Studio
 2. Click "New Project"
